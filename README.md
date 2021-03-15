@@ -7,7 +7,7 @@
 <a href="https://ropdam.github.io/" target=_blank><img src="https://img.shields.io/badge/Github.io-%23808080.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
 &nbsp; 
 &nbsp;
-<a href="https://ropdam.medium.com//" target=_blank><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> 
+<a href="https://ropdam.medium.com//" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> 
 <br/>
 <br/> 
 
