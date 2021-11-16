@@ -11,4 +11,4 @@
 <br/>
 <br/> 
 
-I'm Robin -- a junior Data Scientist who is excited about the field and just started exploring its massive community. Thanks for visiting my profile and don't hesitate to connect with me!
+I'm Robin -- a Data Scientist who is excited about the field and just started exploring its massive community. Thanks for visiting my profile and don't hesitate to connect with me!
