@@ -9,7 +9,8 @@ A Data Scientist who is excited about the field and just started exploring its m
 I infrequently write about [my own experiences](https://medium.com/@ropdam) to share (and remember).
 
 ---
-Thanks for visiting my profile and don't hesitate to connect with me!
+#### Thanks for visiting my profile and don't hesitate to connect with me!
+
 <a href="https://www.linkedin.com/in/robinopdam/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 &nbsp; 
 &nbsp;
