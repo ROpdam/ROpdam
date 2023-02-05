@@ -1,5 +1,4 @@
-### Hi :wave:
-### Robin Opdam - ROpdam
+### I'm Robin Opdam - ROpdam
 
 A Data Scientist who is excited about the field and just started exploring its massive community. I am currently:
 - 🧑‍🎓 Learning [Rust](https://doc.rust-lang.org/book/title-page.html) as the [Polars library](https://github.com/pola-rs/polars) sparked my curiosity.
