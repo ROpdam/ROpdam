@@ -1,9 +1,7 @@
 ### I'm Robin Opdam - ROpdam
 
 A Data Scientist who is excited about the field and just started exploring its massive community. I am currently:
-- 🧑‍🎓 Learning [Rust](https://doc.rust-lang.org/book/title-page.html) as the [Polars library](https://github.com/pola-rs/polars) sparked my curiosity.
-- 🧑‍🎓 Learning Japanese basics through Busuu, definitely recommend this app with its built-in community!
-- 📖 Reading through The Culture Map from Erin Meyer, Peter Flach's Machine Learning book and But How Do It Know by J. Clark Scott.
+- 🧑‍🎓 Currently learning [Rust](https://doc.rust-lang.org/book/title-page.html) as the [Polars library](https://github.com/pola-rs/polars) sparked my curiosity.
 
 I infrequently write about [my own experiences](https://medium.com/@ropdam) to share (and remember).
 
