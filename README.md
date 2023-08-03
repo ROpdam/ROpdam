@@ -1,7 +1,6 @@
 ### I'm Robin Opdam - ROpdam
 
-A Data Scientist who is excited about the field and just started exploring its massive community. I am currently:
-- 🧑‍🎓 Currently learning [Rust](https://doc.rust-lang.org/book/title-page.html) as the [Polars library](https://github.com/pola-rs/polars) sparked my curiosity.
+A Data Scientist who is excited about the field and just started exploring its massive community. I am currently learning about generative AI and its applications, at work and by myself.
 
 I infrequently write about [my own experiences](https://medium.com/@ropdam) to share (and remember).
 
